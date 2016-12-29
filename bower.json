@@ -1,0 +1,21 @@
+{
+  "name": "ion-fab-neetto",
+  "authors": [
+    "juanvazcres <juanvazcres@gmail.com>"
+  ],
+  "description": "Fork de proyecto ion-fab para uso personal",
+  "main": ["ion-fab.js","ion-fab.css"],
+  "keywords": [
+    "ionic",
+    "fab"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
